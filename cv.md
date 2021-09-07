@@ -8,9 +8,16 @@
 <p>Telegram: jknecht</p>
 <p>E-mail: raisat13666@gmail.com</p>
 
-I studied web development on my own and taught HTML, CSS and JS to schoolchildren.
+**About**
+<p>I studied web development on my own and taught HTML, CSS and JS to schoolchildren.
+Together with the team, I created a web application on React. During my work on a project, I learned how to better manage my time and work remotely. Project link https://github.com/r9fq56/samo_final
 
-Created Samo web application on React. Project link https://github.com/r9fq56/samo_final
+In the future, I also plan to work remotely.
+</p>
 
 **Skills**
 <p>JavaScript, ES6+, React, HTML5, CSS3, Git, GitHub, BEM, English level - A2.</p>
+
+**Codewars** 
+
+https://www.codewars.com/users/ra-isat
