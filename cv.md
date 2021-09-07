@@ -1,7 +1,7 @@
 # **Raisat Sirazhudinova** #
 
 ### **Junior Frontend Developer** ###
-<p>29 age</p>
+<p>Age 29 years</p>
 
 **Contacts:**
 <p>Russia, Dagestan</p>
