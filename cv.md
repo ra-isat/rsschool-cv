@@ -16,7 +16,7 @@ In the future, I also plan to work remotely.
 </p>
 
 **Skills**
-<p>JavaScript, ES6+, React, HTML5, CSS3, Git, GitHub, English level - A2.</p>
+<p>JavaScript, ES6+, React, HTML5, CSS3, Git, BEM, GitHub, English level - A2.</p>
 
 **Codewars** 
 
