@@ -10,7 +10,7 @@
 
 **About**
 <p>I studied web development on my own and taught HTML, CSS and JS to schoolchildren.
-Together with the team, I created a web application on React. During my work on a project, I learned how to better manage my time and work remotely. The project is stored [here](https://github.com/r9fq56/samo_final).
+Together with the team, I created a web application on React. During my work on a project, I learned how to better manage my time and work remotely. The project is stored here: https://github.com/r9fq56/samo_final.
 
 In the future, I also plan to work remotely.
 </p>
